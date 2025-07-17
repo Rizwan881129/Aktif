@@ -1,0 +1,2 @@
+# Aktif
+Aktif dan exp
