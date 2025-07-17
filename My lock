@@ -15,8 +15,8 @@
     },
     {
         "device_id": "663f33b5dfde849e",
-        "username": "user3",
-        "password": "pass456",
+        "username": "wan",
+        "password": "wan12",
         "expirydate": "15-06-2026",
         "Allowoffline": false
     }
